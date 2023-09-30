@@ -5,7 +5,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* scrollbar-width: thin; */
 }
 
 code {
@@ -18,6 +17,6 @@ code {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #cdced7;
+  background: #ADD8E6; /* Light blue color for scrollbar */
   border-radius: 50px;
 }
